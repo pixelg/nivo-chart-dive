@@ -41,7 +41,7 @@
     "chalk-template": "^1.0.0",
     "cypress": "^12.11.0",
     "enzyme": "^3.11.0",
-    "eslint": "^8.39.0",
+    "eslint": "^9.26.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-config-react-app": "^7.0.1",
     "eslint-plugin-import": "^2.25.3",
